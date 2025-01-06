@@ -6238,7 +6238,7 @@ body.show-chat .chat-box-popup{
 @media screen and (max-width: 425px){
 
     .nav{
-        width: 95%;
+        width: 90%;
         padding: .4rem 4rem;
         box-shadow: 0px 10px 10px 0 rgb(0, 0,0,0.5);
     }
